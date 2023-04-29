@@ -1,6 +1,6 @@
 ### 👋🏼 Hello there, I'm Emile 👨‍💻 
 
-<img src="https://raw.githubusercontent.com/emilefraser/emilefraser/master/github_banner.png" alt="banner that says Emile Fraser - data engineer, data scientist and cloud developer">
+<img src="https://raw.githubusercontent.com/emilefraser/emilefraser/master/github_banner.png" alt="banner says Emile Fraser - data engineer, data scientist and cloud developer">
 
 <!--
 **emilefraser/emilefraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
